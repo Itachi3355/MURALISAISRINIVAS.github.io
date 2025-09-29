@@ -1,0 +1,31 @@
+{
+  "name": "creative-portfolio-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "framer-motion": "^6.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.8.2",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/plugin-transform-react-jsx": "^7.27.1",
+    "@vitejs/plugin-react": "^5.0.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "vite": "^4.5.14",
+    "gh-pages": "^4.0.0"
+  }
+}

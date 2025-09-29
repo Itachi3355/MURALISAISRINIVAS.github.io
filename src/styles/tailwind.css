@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can be added below */
+body {
+    background-color: #1a1a1a; /* Dark theme background */
+    color: #e0e0e0; /* Light text color for contrast */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif; /* Example font */
+}
+
+a {
+    color: #4f83cc; /* Link color */
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #1e90ff; /* Link hover color */
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}

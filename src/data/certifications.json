@@ -1,0 +1,25 @@
+[
+  {
+    "id": "aws-ml-assoc",
+    "name": "AWS Certified Machine Learning Engineer – Associate",
+    "issuer": "Amazon Web Services",
+    "year": 2025,
+    "link": "https://www.credly.com/badges/6b933b69-9bde-4a19-ba5e-fad51faac032"
+  },
+  {
+    "id": "oci-data-science-2025",
+    "name": "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+    "issuer": "Oracle",
+    "year": 2025,
+    "month": "July",
+    "code": "1Z0-1110-25",
+    "link": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=DE74026D82AEA540195087CECD6E9111597C93CA1B799D047E8F5A1D95A90B72"
+  },
+  {
+    "id": "tcs-excellence-2023",
+    "name": "TCS Excellence Award — Lead, State Bank of India Banking Platform",
+    "issuer": "Tata Consultancy Services",
+    "year": 2023,
+    "note": "Award for leading $500M banking platform development for State Bank of India"
+  }
+]

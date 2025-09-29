@@ -1,0 +1,22 @@
+{
+  "name": "creative-portfolio-dashboard",
+  "version": "1.0.0",
+  "description": "A creative developer portfolio styled as a dashboard/analytics interface.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "echo 'No build step required for Node server'",
+    "test": "echo 'No test specified' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

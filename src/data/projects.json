@@ -1,0 +1,41 @@
+[
+  {
+    "id": "proj-1",
+    "title": "DegreeWheels - University Rideshare Platform",
+    "description": "A comprehensive university rideshare platform connecting 1,000+ students with real-time notifications and messaging system.",
+    "longDescription": "Architected using React and Node.js, this platform features PostgreSQL database architecture, secure authentication with university email verification, and Mapbox GL JS integration for dynamic mapping. Achieved 4.7/5.0 user ratings and reduced pickup coordination time by 60%.",
+    "image": "/images/DegreeWheels.png",
+    "previewVideo": null,
+    "github": "https://github.com/Itachi3355/degreewheels",
+    "liveDemo": "https://www.degreewheels.com",
+    "caseStudy": "",
+    "tech": ["React 18", "Node.js", "PostgreSQL", "Supabase", "Mapbox GL JS", "Tailwind CSS"],
+    "hidden": false
+  },
+  {
+    "id": "proj-2",
+    "title": "American Airlines - Baggage Arrival Prediction System",
+    "description": "Machine learning system achieving 80% accuracy for predicting baggage arrivals, analyzing 50.9M historical records.",
+    "longDescription": "Developed ARIMA-based forecasting system with 7-day sliding window, improving baggage handling efficiency by 18% for 43.8M bags processed annually at DFW Airport. Applied K-means clustering for flight patterns and modeled bag arrival distributions using Gamma distribution, projected to save $1.2M annually.",
+    "image": "/images/American Airlines.png",
+    "previewVideo": null,
+    "github": "https://github.com/Itachi3355/baggage-prediction",
+    "liveDemo": "",
+    "caseStudy": "",
+    "tech": ["Python", "Scikit-learn", "Pandas", "ARIMA", "AWS", "Machine Learning", "Statistical Modeling"],
+    "hidden": false
+  },
+  {
+    "id": "proj-3",
+    "title": "Enterprise Banking Platform",
+    "description": "Led development of microservices-based banking platform supporting 3,800+ branches and 10M+ customers.",
+    "longDescription": "Developed and deployed 25+ microservices using Java, Spring Boot, and Docker, reducing deployment time by 65%. Engineered automated solutions saving $180K annually. Achieved 99.9% uptime and prevented $2.1M in potential downtime costs.",
+    "image": "/images/Banking Platform.png",
+    "previewVideo": null,
+    "github": "https://github.com/Itachi3355/MVP-Intelligent-Banking-Platform-Health-Monitoring",
+    "liveDemo": "",
+    "caseStudy": "",
+    "tech": ["Java", "Spring Boot", "Docker", "Oracle", "MySQL", "Jenkins", "Git"],
+    "hidden": false
+  }
+]
